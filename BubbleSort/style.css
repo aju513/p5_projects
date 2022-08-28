@@ -1,0 +1,19 @@
+html, body {
+  margin: 0;
+  padding: 0;
+}
+
+canvas {
+  display: block;
+}
+.name{
+  position: relative;
+  top:100px;
+  left:600px;
+}
+
+#divX{
+ position:relative;
+ top:150px;
+ left:300px;
+}
